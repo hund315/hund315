@@ -99,14 +99,8 @@ Change the default password before demonstrating the project publicly. The curre
 - Add SMS booking notifications.
 - Build a shared booking system accessible from multiple devices.
 
-📷 Screenshots
 
-Add screenshots of your website here:
 
-![Home Page](screenshots/home.png)
-![Booking Page](screenshots/booking.png)
-![Barbers Page](screenshots/barbers.png)
-![Owner Dashboard](screenshots/dashboard.png)
 
 👨‍💻 Project Information
 
@@ -121,4 +115,9 @@ This project is developed for educational and demonstration purposes.
 
 ---
 
-Habesha Cuts – Walk in tired, walk out sharp. ✂️
+Habesha Cuts – Walk in tired, walk out sharp. ✂️ 
+ contributer:
+ hundaol berhanu 
+ the website can be accessed by: 
+ https://barbershop-website-final-project-hundaol.vercel.app/
+ 
