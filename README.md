@@ -1,225 +1,124 @@
-<p align="center">
-  <img src="./banner.png" alt="Hundaol Berhanu - Software Developer" width="100%">
-</p>
+✂️ Habesha Cuts – Online Barbershop Booking System
 
-# Hi, I'm Hundaol Berhanu
+A modern, responsive website that makes barbershop appointment booking simple and convenient. Customers can explore hairstyles, choose their preferred barber, select a service package, and book an appointment online.
 
-### Software Developer | Flutter & Backend Development
+📌 Project Overview
 
-I'm a developer interested in building practical software that solves real problems.
+Habesha Cuts is an online barbershop booking and management website designed to improve the customer experience and simplify daily barbershop operations.
 
-I'm currently learning and working with Flutter, JavaScript, Node.js, PostgreSQL, REST APIs, and software engineering. I enjoy taking an idea, turning it into a working application, and learning from the problems that come along the way.
+The system allows customers to book appointments without needing to visit the shop or wait in long queues. It also provides an owner management portal to manage bookings, barbers, services, and shop information.
 
----
+🎯 Objectives
 
-## About Me
+- Make barbershop appointment booking easier.
+- Reduce customer waiting time.
+- Allow customers to choose their preferred barber.
+- Display hairstyles and service packages with prices.
+- Help shop owners manage daily appointments.
+- Improve communication between customers and the barbershop.
 
-* Currently working on a **Small Business Operating System (SBOS)**
-* Learning backend development with **JavaScript and Node.js**
-* Building mobile applications with **Flutter and Dart**
-* Working with **PostgreSQL and relational databases**
-* Learning about **authentication, authorization, and security**
-* Interested in **software architecture and scalable systems**
-* Interested in building software that solves real problems in **Ethiopia and beyond**
+✨ Main Features
 
----
+👤 Customer Features
 
-## Technologies
+- View barbershop information and working hours.
+- Explore available hairstyles.
+- View available barbers and their ratings.
+- Select different service packages.
+- Choose appointment dates and available time slots.
+- Enter personal contact information.
+- Select payment methods.
+- Receive a booking confirmation and reservation code.
+- Rate barbers from 1 to 5 stars.
 
-### Languages
+🔐 Owner Management Portal
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,dart,html,css,sql" />
-</p>
+- Owner login.
+- View customer bookings.
+- Complete or cancel appointments.
+- Manage barbers.
+- Add and remove service packages.
+- Manage hairstyles.
+- Publish shop news and updates.
+- Update shop name, address, phone number, and working hours.
+- Upload barber photos and shop banner images.
+- Change the owner password.
+- Manage currency exchange rates.
 
-### Frameworks & Runtime
+🛠️ Technologies Used
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express" />
-</p>
+Technology| Purpose
+HTML5| Website structure
+CSS3| Styling and responsive design
+JavaScript| Functionality and interactivity
+Local Storage| Saving website data in the browser
 
-### Databases
+🎨 Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
+- Modern and professional interface.
+- Dark and light theme support.
+- Orange and black color combination.
+- Responsive layout for mobile and desktop.
+- Simple navigation and booking process.
 
-### Tools
+🚀 How to Run the Project
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+1. Clone the repository:
 
----
+git clone https://github.com/your-username/habesha-cuts.git
 
-## Projects
+2. Open the project folder:
 
-### Small Business Operating System — SBOS
+cd habesha-cuts
 
-SBOS is a project focused on helping small businesses manage their everyday operations in one place.
+3. Open "barbershop-website.html" in your browser.
 
-The idea is to bring areas such as inventory, sales, expenses, employees, reports, and business management into a single system.
+You can also use Visual Studio Code with the Live Server extension.
 
-I'm currently exploring the architecture, features, and technologies needed to turn the idea into a practical product.
+🔑 Demo Owner Login
 
-**Areas I'm working on:**
+The current demo includes a default owner password:
 
-* User and employee management
-* Authentication and authorization
-* Inventory management
-* Sales and expenses
-* Business reports
-* Role-based access control
-* Business analytics
+- Password: "admin123"
 
----
+Change the default password before demonstrating the project publicly. The current authentication is browser-side demo functionality, not secure server-side authentication.
 
-### Flutter E-Commerce Application
+⚠️ Current Limitations
 
-A mobile e-commerce application built with Flutter and a REST API.
+- Website data is stored in browser Local Storage.
+- Bookings are not synchronized between different devices.
+- Real online payment processing is not implemented.
+- Owner authentication is not connected to a secure backend.
 
-The project focuses on building a complete shopping experience while learning how to work with APIs, state management, local storage, and application architecture.
+🔮 Future Improvements
 
-**Features include:**
+- Develop a backend using Node.js.
+- Integrate a PostgreSQL database.
+- Implement secure authentication and authorization.
+- Add real payment integration such as Telebirr.
+- Add SMS booking notifications.
+- Build a shared booking system accessible from multiple devices.
 
-* User authentication
-* Product browsing
-* Product categories
-* Product search
-* Product details
-* Shopping cart
-* Quantity management
-* Local cart storage
-* User profiles
-* Loading and error states
+📷 Screenshots
 
----
+Add screenshots of your website here:
 
-### Flutter Weather Application
+![Home Page](screenshots/home.png)
+![Booking Page](screenshots/booking.png)
+![Barbers Page](screenshots/barbers.png)
+![Owner Dashboard](screenshots/dashboard.png)
 
-A weather application built with Flutter that consumes a REST API to retrieve and display weather information.
+👨‍💻 Project Information
 
-The project helped me practice API integration, UI development, asynchronous programming, and separating application logic from the user interface.
+Project Name: Habesha Cuts
+Project Type: Web Development Project
+Category: Barbershop Appointment Booking System
+Location Concept: Adama, Ethiopia
 
-**Features include:**
+📄 License
 
-* Current temperature
-* Humidity
-* Weather conditions
-* Wind speed
-* Wind direction
-* REST API integration
-* Responsive interface
-
----
-
-## What I'm Learning
-
-My current learning path is mainly focused on backend and full-stack development.
-
-```text
-JavaScript
-    ↓
-Node.js
-    ↓
-Express.js
-    ↓
-REST APIs
-    ↓
-PostgreSQL
-    ↓
-Authentication & Security
-    ↓
-Full-Stack Development
-```
-
-At the same time, I'm continuing to improve my Flutter and Dart skills.
+This project is developed for educational and demonstration purposes.
 
 ---
 
-## My Approach
-
-I believe the best way to learn software development is to build things.
-
-I don't want to only understand the theory behind programming. I want to take an idea, turn it into a working application, run into problems, figure out why they happen, and learn from the process.
-
-Most of my projects are part of that process.
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Build Again
-```
-
----
-
-## 2026 Goals
-
-* Become a stronger full-stack developer
-* Improve my Flutter development skills
-* Build and improve SBOS
-* Become comfortable building production-ready REST APIs
-* Improve my PostgreSQL and database design skills
-* Learn more about authentication and security
-* Build and deploy real-world applications
-* Contribute to open-source projects
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-## A Little About My Journey
-
-I'm still early in my development journey, and I'm constantly learning.
-
-Every project teaches me something different. Sometimes it's a new programming concept, sometimes it's database design, sometimes it's debugging a problem that seemed impossible at first.
-
-For me, that's part of what makes software development interesting.
-
-I'm focused on getting better one project at a time.
-
----
-
-<p align="center">
-
-**Learning today. Building tomorrow. Improving every day.**
-
-</p>
+Habesha Cuts – Walk in tired, walk out sharp. ✂️
