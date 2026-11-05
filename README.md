@@ -61,19 +61,7 @@ Local Storage| Saving website data in the browser
 - Responsive layout for mobile and desktop.
 - Simple navigation and booking process.
 
-🚀 How to Run the Project
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/habesha-cuts.git
-
-2. Open the project folder:
-
-cd habesha-cuts
-
-3. Open "barbershop-website.html" in your browser.
-
-You can also use Visual Studio Code with the Live Server extension.
+.
 
 🔑 Demo Owner Login
 
