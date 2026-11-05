@@ -103,4 +103,6 @@ This project is developed for educational and demonstration purposes.
 
 Habesha Cuts – Walk in tired, walk out sharp. ✂️
 The website can be accesed by :https://barbershop-website-final-project-hundaol.vercel.app/
+
+
 https://docs.google.com/presentation/d/1siSc6CTSdZpw9MZq6udZHZmWbHJ_yZ1z/edit?usp=drivesdk&ouid=101499475134843868200&rtpof=true&sd=true
