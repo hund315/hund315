@@ -106,3 +106,4 @@ The website can be accesed by :https://barbershop-website-final-project-hundaol.
 
 
 https://docs.google.com/presentation/d/1siSc6CTSdZpw9MZq6udZHZmWbHJ_yZ1z/edit?usp=drivesdk&ouid=101499475134843868200&rtpof=true&sd=true
+contributer :hundaol berhanu (CTC-1164-26)
